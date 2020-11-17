@@ -1,0 +1,161 @@
+,type,name,lat,lng
+0,Vegan,Vegan Buddha,51.79039580000001,0.1362968
+1,Vegan,Vantra,51.5107029,-0.1318557
+2,Vegan,Mildreds Soho,51.5130279,-0.1364023
+3,Vegan,Farmacy,51.5154097,-0.1928439
+4,Vegan,222 Vegan Cuisine,51.4859898,-0.2030877
+5,Vegan,Paradise Plantbased,51.53331379999999,-0.21825
+6,Vegan,Hooyo's Vegan Restaurant Catering Kitchen,51.4991853,-0.0135337
+7,Vegan,Mooshies London Vegan Burger Bar,51.5197306,-0.07173879999999999
+8,Vegan,by CHLOE.,51.5038676,-0.07703270000000001
+9,Vegan,Mildreds Camden,51.5403759,-0.1449377
+10,Vegan,By Chloe,51.5135778,-0.1203722
+11,Vegan,Vegan Yes Shoreditch,51.51876009999999,-0.0714397
+12,Vegan,The Plant Base,51.1345908,0.2669981
+13,Vegan,Oliveira Organic Vegetarian Kitchen,51.4640904,-0.2724092
+14,Vegan,Vegan Spartan,51.7477585,-0.4724641000000001
+15,Vegan,Genesis Shoreditch,51.5217166,-0.07581249999999999
+16,Vegan,Lovegift Vegan,51.4569456,0.0090364
+17,Vegan,Ahimsa The Vegan Cafe,51.5945991,-0.3826569
+18,Vegan,Miranda Café,51.5811807,-0.121625
+19,Vegan,Sagar Restaurant,51.4924404,-0.2321587
+20,Dog groomer,Bark Lane,51.2879594,-0.09692529999999999
+21,Dog groomer,"""By George"" Professional dog groomers",51.591956,-0.683452
+22,Dog groomer,"Dapper Dogs, Dog Grooming, Dog Groomer",51.339409,0.5171629999999999
+23,Dog groomer,MUDDIPAWS DOG GROOMING,51.903097,-0.398698
+24,Dog groomer,Pedigrees 'n' Pooches Dog Grooming,51.7879195,-0.148577
+25,Dog groomer,Pretty Paws Dog Grooming Services,51.5714743,0.4778823
+26,Dog groomer,Nicoles dog grooming parlour,51.6138586,0.5197210000000001
+27,Dog groomer,Four Paws Dog Grooming,51.8773127,0.5088083
+28,Dog groomer,BUSHMEAD DOG GROOMERS,51.90629759999999,-0.4117124
+29,Dog groomer,Home from Home Dog Grooming Salon,51.6122093,0.5305702999999999
+30,Dog groomer,King Cut Dog Grooming,51.5728815,0.4440636
+31,Dog groomer,Helen's Mobile Dog Grooming,51.9096829,-0.1846176
+32,Dog groomer,Shampoodles mobile dog grooming,51.1328679,-0.3003512
+33,Dog groomer,Paws & Pamper Dog Grooming,51.8958568,-0.5368954
+34,Dog groomer,Snip Doggy Dogs,51.89515859999999,-0.3897204
+35,Dog groomer,Diamond Dog Grooming,51.369302,0.547114
+36,Dog groomer,Best Buddies Dog Grooming,51.6385024,0.3419884
+37,Dog groomer,Pedigree Professionals Dog Grooming,51.41282500000001,-0.167713
+38,Dog groomer,Mr Scrufts Dog Grooming,51.3276759,-0.7552536999999999
+39,Dog groomer,Buddie's Mobile Dog Grooming,51.3349693,0.5529674
+40,Pubs,Vegan Buddha,51.79039580000001,0.1362968
+41,Pubs,Vantra,51.5107029,-0.1318557
+42,Pubs,Mildreds Soho,51.5130279,-0.1364023
+43,Pubs,Farmacy,51.5154097,-0.1928439
+44,Pubs,222 Vegan Cuisine,51.4859898,-0.2030877
+45,Pubs,Paradise Plantbased,51.53331379999999,-0.21825
+46,Pubs,Hooyo's Vegan Restaurant Catering Kitchen,51.4991853,-0.0135337
+47,Pubs,Mooshies London Vegan Burger Bar,51.5197306,-0.07173879999999999
+48,Pubs,by CHLOE.,51.5038676,-0.07703270000000001
+49,Pubs,Mildreds Camden,51.5403759,-0.1449377
+50,Pubs,By Chloe,51.5135778,-0.1203722
+51,Pubs,Vegan Yes Shoreditch,51.51876009999999,-0.0714397
+52,Pubs,The Plant Base,51.1345908,0.2669981
+53,Pubs,Oliveira Organic Vegetarian Kitchen,51.4640904,-0.2724092
+54,Pubs,Vegan Spartan,51.7477585,-0.4724641000000001
+55,Pubs,Genesis Shoreditch,51.5217166,-0.07581249999999999
+56,Pubs,Lovegift Vegan,51.4569456,0.0090364
+57,Pubs,Ahimsa The Vegan Cafe,51.5945991,-0.3826569
+58,Pubs,Miranda Café,51.5811807,-0.121625
+59,Pubs,Sagar Restaurant,51.4924404,-0.2321587
+60,Schools,Icknield High School,51.9073759,-0.4268909
+61,Schools,Lambeth Teaching Schools' Alliance,51.48890060000001,-0.1180918
+62,Schools,Convent of Jesus and Mary Language College,51.53841920000001,-0.2461936
+63,Schools,City of London School,51.5118224,-0.0986223
+64,Schools,School entrance,51.5108699,-0.0991443
+65,Schools,School 21,51.5380908,0.0033936
+66,Schools,Addison Primary School,51.4998014,-0.2192982
+67,Schools,Wapping High School,51.5148917,-0.0616999
+68,Schools,St Albans School,51.75106359999999,-0.3453612
+69,Schools,City Of London School,51.51184019999999,-0.0986012
+70,Schools,Byron Primary School,51.3774007,0.5487390999999999
+71,Schools,The American School in London,51.5348361,-0.1766746
+72,Schools,West London Free School secondary,51.4928397,-0.2380333
+73,Schools,South Park Primary School,51.5580069,0.0973187
+74,Schools,Teddington School,51.4230114,-0.3104726
+75,Schools,Riverside School,51.6039197,-0.1002461
+76,Schools,John F. Kennedy School,51.5378981,0.0024676
+77,Schools,Hall Mead School,51.5642461,0.2620639
+78,Schools,state secondary school,51.3783174,-0.0985448
+79,Schools,Brentwood School,51.6200241,0.3075211
+80,Airport,Heathrow Airport,51.4700223,-0.4542955
+81,Airport,Gatwick Airport,51.1536621,-0.1820629
+82,Airport,London Stansted Airport,51.8860181,0.2388661
+83,Airport,London Luton Airport,51.87626460000001,-0.3717471
+84,Airport,London City Airport,51.5048437,0.049518
+85,Airport,Rochester Airport,51.3473745,0.5037726
+86,Airport,Blackbushe Airport,51.322724,-0.839332
+87,Airport,London City Airport Private Jet Centre,51.5047697,0.0403789
+88,Airport,Farnborough Airport,51.283039,-0.777307
+89,Airport,London Biggin Hill Airport (BQH - EGKB),51.33060589999999,0.0279825
+90,Airport,Fairoaks Airport,51.35179609999999,-0.5611824
+91,Airport,Gatwick Airport (LGW),51.1536621,-0.1820629
+92,Airport,Signature Flight Support LTN - London Luton Airport Terminal 1,51.877982,-0.381665
+93,Airport,Just Airport Taxis,51.6369802,-0.7346906
+94,Airport,Babcock Airports Ltd,51.473163,-0.4317996
+95,Airport,RAF Northolt,51.5540305,-0.4171726
+96,Airport,Airport Only Cars,51.56869039999999,-0.2368338
+97,Airport,Airports Runner,51.5369946,0.0647587
+98,Airport,Airport Driven,51.4831712,-0.4486823999999999
+99,Airport,London Luton Airport,51.8800403,-0.3753785
+100,Basket,London Lions,51.5443533,-0.0203306
+101,Basket,GO Mammoth Basketball,51.52754119999999,-0.0281798
+102,Basket,Finsbury Park Basketball Courts,51.5715566,-0.1045636
+103,Basket,Hireapitch UK ltd.,51.5009553,-0.1088921
+104,Basket,Copper Box Arena,51.5444079,-0.0200825
+105,Basket,Crystal Palace National Sports Centre,51.421015,-0.0673556
+106,Basket,London Basketball Association,51.5327324,-0.1975908
+107,Basket,Bannister Stadium,51.6114686,-0.3518219
+108,Basket,Clapham Common Basketball Court,51.4603516,-0.1431782
+109,Basket,The Regal & Jordan court,51.4916867,-0.1153514
+110,Basket,Wembley Stadium,51.55602469999999,-0.2796177
+111,Basket,London Rec Basketball - Islingoton legeue,51.5530918,-0.111622
+112,Basket,London Tigers,51.517696,-0.37927
+113,Basket,Powerleague,51.5795133,-0.3258136
+114,Basket,Hemel Storm,51.7465547,-0.4767363
+115,Basket,Greenhouse centre,51.521595,-0.1666185
+116,Basket,PAO BASKETBALL ACADEMY,51.6242349,-0.060055
+117,Basket,Battersea Park All Weather Sports Ground,51.4763047,-0.159693
+118,Basket,GO Mammoth,51.4607701,-0.1039543
+119,Basket,Stamford Bridge,51.481663,-0.1909565
+120,Design,The Empire Design Company Ltd,51.5178218,-0.1473298
+121,Design,Interior Designer London Award Winning Interior design company,51.477107,-0.1886423
+122,Design,Companies Web Design,51.49926439999999,-0.0130435
+123,Design,GB Logo Design - Logo Design Company in The UK,51.6111048,-0.178416
+124,Design,The Web Design Company,51.5562186,0.0192013
+125,Design,Skywide Design Ltd.,51.9502386,-0.2722044
+126,Design,Web Design Company,51.49926439999999,-0.0130435
+127,Design,Companies Web Design,51.5911504,0.0442412
+128,Design,Website Design and Development Company,51.6398679,-0.399578
+129,Design,Idiosys Technologies - Best Web Design Company in UK,51.5238191,-0.1103317
+130,Design,Chelmsford Web Design Company,51.7291159,0.4781298
+131,Design,Graphic Design London,51.5099697,-0.128982
+132,Design,Interior Design Company - House of Design Felsted Ltd,51.8562391,0.4789053
+133,Design,Website Design Chingford.co.uk - Best Chingford Website Design Company,51.6072084,-0.0272057
+134,Design,Barber Design Consultancy,51.4691818,-0.2199011
+135,Design,LUMA Product Design London,51.4951935,0.0427132
+136,Design,Centreline Design and Manufacture - London Studio,51.5304666,-0.07639399999999999
+137,Design,Glazier Design,51.5179529,-0.140166
+138,Design,Cheap Web Design Company,51.44970439999999,-0.1262508
+139,Design,Italian Classic Design Company Limited,51.5231327,-0.1749943
+140,Starbucks,Starbucks,51.51610900000001,-0.087348
+141,Starbucks,Starbucks,51.514141,-0.161226
+142,Starbucks,Starbucks,51.237907,-0.208984
+143,Starbucks,Starbucks,51.39456999999999,0.496326
+144,Starbucks,Starbucks,51.294022,-0.804496
+145,Starbucks,Starbucks,51.37254,-0.225062
+146,Starbucks,Starbucks,51.40188759999999,0.5342437
+147,Starbucks,Starbucks Coffee,51.58205599999999,-0.244449
+148,Starbucks,Starbucks,51.1559999,-0.1627442
+149,Starbucks,Starbucks,51.4152675,-0.7498906
+150,Starbucks,Starbucks,51.50071459999999,-0.1625038
+151,Starbucks,Starbucks,51.5074409,-0.1425292
+152,Starbucks,Starbucks Coffee,51.51635599999999,-0.119867
+153,Starbucks,Starbucks Coffee,51.393094,-0.740413
+154,Starbucks,Starbucks,51.512332,-0.121685
+155,Starbucks,Starbucks Coffee,51.5138694,-0.1492504
+156,Starbucks,Starbucks Coffee,51.50879639999999,-0.1442989
+157,Starbucks,Starbucks Coffee,51.528563,-0.127107
+158,Starbucks,Starbucks,51.499911,-0.104411
+159,Starbucks,Starbucks Coffee,51.487413,0.024706
