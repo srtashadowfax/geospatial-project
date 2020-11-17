@@ -48,20 +48,20 @@ Companies in Europe:
 
 
 
-![London](images/europecompanies.png)
+![London](Images/europecompanies.png)
 
 
 100 km radius from London:
 
 
 
-![Radius](images/londonradius.png)
+![Radius](Images/londonradius.png)
 
 
 Then, I created a dataframe using **pandas** 🐼 in order to have a better visualization of data:
 
 
-![pandas](images/pandas.jpg)
+![pandas](Images/pandas.jpg)
 
 
 
@@ -75,18 +75,18 @@ Using the coordinates of the center of London with my radius of 100km, I made re
 
 
 
-![](images/df.png)
+![](Images/df.png)
 
 
 Finally, I chose my ideal office by creating a function that included the **haversine** formula and accepted coordinates from both DataFrames (offices and sites of preference).
 
 
-![](images/df2.png)
+![](Images/df2.png)
 
 
 
 
-![](images/haversine.png)
+![](Images/haversine.png)
 
 
 
@@ -95,18 +95,18 @@ Later, using a loop, I obtained the total score regarding the good or bad situat
 
 
 
-![](images/score.png)
+![](Images/score.png)
 
 
 
 After this, I ordered the results from best to worst and I obtained that the best possible location for the company is the **Bandstocks** office.
 
 
-![](images/sorted.png)
+![](Images/sorted.png)
 
 
 
-![](images/band.png)
+![](Images/band.png)
 
 
 
